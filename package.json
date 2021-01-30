@@ -20,7 +20,7 @@
     "@testing-library/user-event": "^7.2.1",
     "antd": "^4.9.4",
     "array-move": "^3.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clsx": "^1.1.1",
     "cross-fetch": "^3.0.5",
     "date-fns": "^2.14.0",
